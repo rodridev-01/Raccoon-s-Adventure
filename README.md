@@ -6,13 +6,15 @@
 
 ## Sobre el Juego
 
-![Rocket](Rocket.png)
+![Raccoon](Rocket.png)
 
 "Raccoon's Adventure" es un juego de plataformas creado con esfuerzo y un toque de estrés. Aunque solo cuenta con un nivel, está lleno de diversión y desafíos. ¡Explora, corre y salta con nuestro valiente mapache!
 
 **Nota:** Cualquier parecido con música de Nintendo es pura coincidencia.
 
-[**Descargar Ahora**](https://drive.google.com/drive/folders/1DrF53xOa2d6ZUARJ2hUX83Q65iiHgOBa?usp=drive_link)
+<div style="text-align: center;">
+    <a href="https://drive.google.com/drive/folders/1DrF53xOa2d6ZUARJ2hUX83Q65iiHgOBa?usp=drive_link" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-size: 1rem; margin: 10px 0;">Descargar Ahora</a>
+</div>
 
 ---
 
@@ -22,9 +24,9 @@
 
 ### Características de Rocket:
 
-- **Estilo Retro:** Con su casaca verde y sombrero, Rocket no pasa desapercibido. Su atuendo es tan clásico como su actitud, ¡y está listo para mostrarlo en cada salto y carrera!
-- **Sabiduría de la Edad:** Aunque puede que no sea el mapache más joven, Rocket tiene años de experiencia y astucia. Sabe cómo enfrentar los desafíos con un toque de sabiduría y un poco de ingenio.
-- **Corazón de Aventurero:** Rocket sigue buscando aventuras emocionantes, y su entusiasmo es contagioso. Está siempre dispuesto a enfrentarse a nuevos retos, ¡y a disfrutar cada momento del camino!
+- **Estilo Retro**: Con su casaca verde y sombrero, Rocket no pasa desapercibido. Su atuendo es tan clásico como su actitud, ¡y está listo para mostrarlo en cada salto y carrera!
+- **Sabiduría de la Edad**: Aunque puede que no sea el mapache más joven, Rocket tiene años de experiencia y astucia. Sabe cómo enfrentar los desafíos con un toque de sabiduría y un poco de ingenio.
+- **Corazón de Aventurero**: Rocket sigue buscando aventuras emocionantes, y su entusiasmo es contagioso. Está siempre dispuesto a enfrentarse a nuevos retos, ¡y a disfrutar cada momento del camino!
 
 Rocket ha estado corriendo y saltando por la vida, enfrentándose a obstáculos con una sonrisa y un espíritu inquebrantable. Con su estilo único y su valentía, está listo para llevarte a través de un mundo lleno de diversión y desafíos.
 
